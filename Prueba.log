@@ -1,0 +1,8 @@
+350 | caracter
+350.895 | caracter
+350E-46 | caracter
+350E46 | caracter
+356E+46 | caracter
+350.895E-46 | caracter
+350.895E+46 | caracter
+350.895E46￿ | caracter
